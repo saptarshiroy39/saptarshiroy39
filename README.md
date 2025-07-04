@@ -25,7 +25,5 @@ Welcome to my GitHub profile repository! This is where I keep my profile README 
 ## 📫 Contact Me
 - **GitHub:** [@saptarshiroy39](https://github.com/saptarshiroy39)
 - **Email:** saptarshiroy39@gmail.com
-
-> Last updated: 2025-07-03
-
-Thanks for visiting and don't forget to ⭐ star the repo if you find something helpful or interesting!
+ 
+[![GitHub followers](https://img.shields.io/github/followers/saptarshiroy39.svg?style=social&label=Follow)](https://github.com/saptarshiroy39)
