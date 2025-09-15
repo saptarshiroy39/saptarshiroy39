@@ -1,28 +1,29 @@
-# hey there! i'm saptarshi 👋
+# Hello, I'm Saptarshi Roy! 👋
 
-i love **terminals**, **minimalism**, & **open source** :)
+Welcome to my GitHub profile repository! This is where I keep my profile README so you can learn a bit about me and my work.
 
-i spend most of my time building **software solutions** and **web apps**, along with some **fun side projects**.
-gradually diving into **core backend** & **systems stuff**
+## 🧑‍💻 About Me
+- 🔭 I'm passionate about exploring new technologies and building software solutions.
+- 🌱 Currently focusing on improving my programming skills every day.
+- 🤝 Open to collaborating on interesting projects and helping others grow.
 
-currently pursuing my **cs undergrad** @ **NSUT**
+## 🚀 Interests & Projects
+- 🚀 I enjoy working on innovative projects that involve problem-solving in C++, Python, TypeScript, and more.
+- ⚙️ This repository keeps my personal profile details and might include fun experiments or showcases.
+- 🌐 Feel free to explore other repositories in my GitHub portfolio!
 
-## 🚀 what i'm working with
-- **languages:** c, c++, python, javascript, typescript
-- **frontend:** react.js, html, css, tailwind
-- **backend:** node.js, docker
-- **databases:** mysql, mongodb
-- **tools:** git, github, linux, xilinx, scilab
-- **automation:** n8n, zapier, notion
+## ⚙️ Technologies I Use
+- **Languages:** C, C++, Python  
+- **Frontend:** React.js, HTML, CSS, Tailwind  
+- **Backend:** Node.js, Docker  
+- **Databases:** MySQL, MongoDB
+- **Version Control:** Git, GitHub  
+- **Operating Systems:** Windows, Linux (Ubuntu), Android  
+- **Automation & Productivity:** n8n, Notion
+- **Engineering Tools:** Scilab, Xilinx
 
-## 📊 github stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saptarshiroy39&show_icons=true&theme=dark&hide_border=true)
-
-## 💻 most used languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshiroy39&layout=compact&theme=dark&hide_border=true)
-
-## 📫 let's connect
-- **github:** [@saptarshiroy39](https://github.com/saptarshiroy39)
-- **email:** saptarshiroy39@gmail.com
+## 📫 Contact Me
+- **GitHub:** [@saptarshiroy39](https://github.com/saptarshiroy39)
+- **Email:** saptarshiroy39@gmail.com
 
 [![GitHub followers](https://img.shields.io/github/followers/saptarshiroy39.svg?style=social&label=Follow)](https://github.com/saptarshiroy39)
