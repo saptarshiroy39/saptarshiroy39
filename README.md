@@ -8,3 +8,5 @@
 - ***Cloud:*** `GCP`
 - ***Deployment:*** `Railway` • `Render`
 - ***DevOps:*** `Docker` • `Git` • `GitHub`
+
+### 🔑 ***GPG Key ID:*** `171C1035E6B69514`
