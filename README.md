@@ -7,12 +7,14 @@
 ### ⚙️ **_Tech Stack_**
 
 - **_Languages:_** `C` • `C++` • `Python` • `Bash`
-- **_Frameworks & Libraries:_** `FastAPI` • `LangChain` • `Pandas`
-- **_Databases:_** `MySQL` • `Supabase` • `Pinecone`
-- **_DevOps & Automation:_** `Git` • `GitHub` • `Docker`•`n8n`
-- **_Cloud & Deployment:_** `GCP` • `Vercel` • `Railway` • `Render`
-- **_Miscellaneous:_** `Requestly` • `UptimeRobot` • `Hugging Face`
+- **_Frameworks & Libraries:_** `FastAPI` • `LangChain`
+- **_Databases:_** `Oracle SQL` • `Supabase` • `Pinecone`
+- **_DevOps_** `Git` • `GitHub` • `Docker`
+- **_Deployment:_** `Vercel` • `Railway` • `Render` • `Hugging Face`
+- **_Agents & Automation:_** `n8n`
+- **_Cloud:_** `GCP`
+- **_IoT:_** `ESP32`
 
 ### 🌐 **_Website:_** [`hirishi.in`](https://hirishi.in)
 
-### 🔑 **_GPG Key:_** `394FAAE933C43B0A`
+### 🔑 **_GPG Key:_** [`394FAAE933C43B0A`](https://github.com/saptarshiroy39.gpg)
